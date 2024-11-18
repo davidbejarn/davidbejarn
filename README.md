@@ -84,7 +84,8 @@ I'm a **Systems Engineering student** passionate about learning, creating, and e
 </div>
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify00-e4rwavso0-davids-projects-ca139427.vercel.app/api/spotify)](https://open.spotify.com/user/31f6edqcwa4thlcazmjoydt22dje)
+
+[![Spotify](https://github.com/novatorem/novatorem?vercelToolbarCode=6QWsO9-JAuOUl92)](https://open.spotify.com/user/31f6edqcwa4thlcazmjoydt22dje)
 
 
 
