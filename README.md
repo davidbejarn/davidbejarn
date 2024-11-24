@@ -7,7 +7,7 @@ I'm a **Systems Engineering student** passionate about learning, creating, and e
 <hr>
 
 <pre>
- 💻 I'm interested in Machine Learning, Data Science and Cloud.
+ 💻 I'm interested in Data Science and Cloud.
  🔭 I’m currently studying:
   - Java
   - Python
