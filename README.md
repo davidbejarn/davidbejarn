@@ -2,7 +2,7 @@
 
 ## ***About me***
 
-I'm a **Systems Engineering student** passionate about learning, creating, and exploring new ideas. As a **creative and innovative thinker**, I love building meaningful projects and discovering fresh approaches to solve problems. I'm always eager to grow, experiment, and expand my knowledge across different fields, turning curiosity into impactful solutions. 
+I'm a **Systems Engineering student** passionate about learning, creating, and exploring new ideas. As a **creative**. I'm always eager to grow, experiment, and expand my knowledge across different fields. 
 
 <hr>
 
