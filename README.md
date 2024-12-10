@@ -19,7 +19,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 
 - 🛠️  I'm working on the following projects:
   - 🤖**Recomombot**
-  -  [**ChatBot**](https://github.com/AndresMolin4/ChatBot) - Project that focuses on recommending movies and books.
+  -  [**ChatBot**](https://github.com/david6e/Recomombot) - Project that focuses on recommending movies and books.
   
 - Outside tech, 🚴‍♂️ I love cycling, 🏀 I enjoy playing basketball, 🎵 listen to music, 🌴 explore nature outdoors, and 🍳 Cooking is one of my passions.
 
