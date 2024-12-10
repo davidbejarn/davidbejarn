@@ -23,7 +23,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
   -  **Vehicular Access Management System**
   -  [**AccessManager**](https://github.com/david6e/AccessManager) - This project allows users to register, track, and control vehicle entries and exits.
   
-- Outside tech, 🚴‍♂️ I love cycling, 🏀 I enjoy playing basketball, 🎵 listen to music, 🌴 explore nature outdoors, and 🍳 Cooking is one of my passions.
+- Outside tech, I love cycling 🚴‍♂️, I enjoy playing basketball 🏀, listen to music 🎵, explore nature outdoors 🌴, and Cooking is one of my passions 🍳.
 
 # Skills
 <p align="center">
