@@ -11,7 +11,6 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
  🔭 I’m currently studying:
   - Java
   - Python
-  - JavaScript
  💡 I’m looking forward to collaborate on open source projects.
  💬 Ask me about anything, I am happy to help.<br>
 </pre>
