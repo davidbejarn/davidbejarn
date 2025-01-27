@@ -109,6 +109,8 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanbejaranodiaz03@gmail.com)
 </div>
 
+[![Spotify](https://github.com/novatorem/novatorem)]
+
 
 ---
 <!--
