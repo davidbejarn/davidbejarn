@@ -83,10 +83,17 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
       </td>
     </tr>
     <tr>
+      <td>Control</td>
+      <td>
+       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      </td>
+    <tr>
       <td>Other</td>
       <td>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
       </td>
     </tr>
   </table>
