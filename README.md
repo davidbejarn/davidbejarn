@@ -16,7 +16,6 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 </pre>
 <hr>
 
-- Visit my personal website 👉[**David Bejarano Diaz**](https://davidbejarn.github.io).
 - 🛠️  I'm working on the following projects:
   - 🤖**Recomombot**
   -  [**ChatBot**](https://github.com/david6e/Recomombot) - Project that focuses on recommending movies and books.
@@ -24,6 +23,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
   -  [**AccessManager**](https://github.com/david6e/AccessManager) - This project allows users to register, track, and control vehicle entries and exits.
   
 - Outside tech, I love cycling 🚴‍♂️, I enjoy playing basketball 🏀, listen to music 🎵, explore nature outdoors 🌴, and Cooking is one of my passions 🍳.
+- My personal website 👉[**David Bejarano Diaz**](https://davidbejarn.github.io).
 
 # Skills
 <p align="center">
