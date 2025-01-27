@@ -111,8 +111,10 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 
 [![Spotify](https://github.com/novatorem/novatorem)]
 
+[![Spotify](https://jdbejaranod@itc.edu.co.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ---
+
 <!--
 **david6e/david6e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
