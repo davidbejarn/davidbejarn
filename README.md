@@ -109,7 +109,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanbejaranodiaz03@gmail.com)
 </div>
 
-[![Spotify](https://pruebas1-weld.vercel.app/api/spotify)](https://open.spotify.com/user/31f6edqcwa4thlcazmjoydt22dje)
+
 
 ---
 
