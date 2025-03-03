@@ -53,8 +53,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
       <td>Programming</td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
-        <img src="https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
       </td>
     </tr>
