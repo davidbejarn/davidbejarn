@@ -20,7 +20,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 
 - 🛠️  I'm working on the following projects:
   - 🤖**Recomombot**
-  -  [**ChatBot**](https://github.com/david6e/Recomombot) - Project that focuses on recommending movies and books.
+  -  [**Vora EX**](https://github.com/davidbejarn/Vora) - Project that focuses on recommending movies and books.
   -  **Vehicular Access Management System**
   -  [**AccessManager**](https://github.com/david6e/AccessManager) - This project allows users to register, track, and control vehicle entries and exits.
   
