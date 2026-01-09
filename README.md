@@ -81,7 +81,6 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
       <td>Monitoring and Visualization Tools</td>
       <td>
        <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-       <img src="">
       </td>
     </tr>
     <tr>
@@ -89,7 +88,6 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
       <td>Virtualization</td>
       <td>
        <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
-       <img src="">
       </td>
     </tr>
    <tr>
