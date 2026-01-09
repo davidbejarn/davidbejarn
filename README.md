@@ -7,7 +7,7 @@ I'm a **Systems Engineering** student passionate about learning, innovation, and
 <hr>
 
 <pre>
- 💻 I'm interested in Cloud, Networking and DevSecOps.
+ 💻 I'm interested in Cloud, Networking and DevOps.
  
  💡 I’m looking forward to collaborate on open source projects.
  
