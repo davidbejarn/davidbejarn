@@ -2,7 +2,7 @@
 
 ## ***About me***
 
-I'm a **Systems Engineering** student passionate about learning, innovation, and exploration. With a constant curiosity, I strive to grow and experiment, and expand my knowledge in different fields.
+I'm a **Computer Technician** also a Systems Engineering student who is passionate about learning, innovation, and exploration. With a constant curiosity, I strive to grow and experiment, and expand my knowledge in different fields.
 
 <hr>
 
