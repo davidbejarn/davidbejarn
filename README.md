@@ -7,7 +7,7 @@ I'm a **Computer Technician** also a Systems Engineering student who is passiona
 <hr>
 
 <pre>
- 💻 I'm interested in Cloud, Networking and DevOps.
+ 💻 I'm interested in Infrastructure, Cloud, Networking and DevOps.
  
  💡 I’m looking forward to collaborate on open source projects.
  
